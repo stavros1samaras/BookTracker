@@ -1,0 +1,14 @@
+#divBookCont
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 103, 238);
+    width: 15%;
+}
+
+#bookImg {
+  width: 150px;       
+  height: 220px;     
+  object-fit: cover;  
+  border-radius: 8px; 
+  margin-bottom: 10px;
+}

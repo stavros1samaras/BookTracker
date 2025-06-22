@@ -1,0 +1,90 @@
+#headerDiv
+{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  
+}
+
+h1{
+  font-size: 2.4rem;
+  background-color: white;
+  color: rgb(0, 103, 238);
+  border-radius: 10px;
+}
+
+#menuBar
+{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 20%;
+  margin-right: 5px;
+}
+
+.navLinks {
+  color:rgb(0, 103, 238);
+  text-decoration: none;
+  font-size: 1.8rem;
+}
+
+.navLinks:visited {
+  color:rgb(0, 103, 238);
+}
+
+.navLinks:hover {
+  color:rgb(0, 103, 238);
+}
+
+.navLinks:active {
+  color:rgb(0, 103, 238);
+}
+
+/*----------------------------------------------HOME----------------------------------------------*/
+
+#intro
+{
+  width: 100%;
+  /*height: 70vh;*/
+  height: 100%;
+  /*border: 1px solid black;*/
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#slogan
+{
+  width: 50%;
+}
+
+.intro
+{
+  font-size: 2rem;
+  color: rgb(0, 103, 238);
+  font-weight: 500;
+}
+
+#sloganP
+{
+  color: rgb(0, 103, 238);
+}
+
+/*#imgDiv
+{
+  width: 40%;
+  height: 30%;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+#firstImg
+{
+  width: 15%;
+  height: 100%;
+}
+
+*/
